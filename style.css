@@ -1,0 +1,43 @@
+h1{
+  color: #8163d5;
+
+}
+p.solid {border-style: solid;}
+p.outset {border-style: outset;
+display: inline-block;}
+
+ul {
+  display: inline;
+}
+li {
+    font-style: Georgia, "Times New Roman", Times, serif;
+    display: inline;
+  }
+.titre {
+  color:#8163d5 ;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h2 {
+  color: #8163d5;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p{
+  color: #6230eb;
+}
+li {
+  display: inline;
+}
+
+.image{
+    margin: 0 auto;
+    display: inline-block;
+}
+.image img{
+    float: left;
+}
+body{
+  background-color: #7beaa9;
+}
+p{
+  font-family: 'roboto';
+}
